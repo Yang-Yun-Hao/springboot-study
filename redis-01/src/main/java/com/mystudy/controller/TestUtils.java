@@ -9,5 +9,6 @@ public class TestUtils {
         System.out.printf("hot");
         System.out.printf("fix");
         System.out.printf("nice");
+        System.out.printf("999");
     }
 }
